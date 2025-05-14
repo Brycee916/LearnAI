@@ -1,0 +1,11 @@
+🧠 Quick Quiz
+What’s the difference between a list and a dictionary?
+	A list is just a dynamic array in python. A dictionary is a hashmap with key, value pairs.
+	Lists should contain the same data types. Dictionaries can have multiple and do not have indexes, unlike lists.
+
+What does the __init__ function do in a class?
+	The init function specifies the constructor for a class in Python.
+
+How would you import NumPy and create an array?
+	import Numpy as np
+	array1 = np.array([0, 1, 2])
