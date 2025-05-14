@@ -1,0 +1,14 @@
+Quiz Yourself:
+
+What’s the difference between AI and ML?
+	AI is the field of simulating intelligence by computing systems.
+
+Give 3 real-world applications of AI.
+	3 real-world applications of AI are Netflix's content recommendation system, house price predictions, and scam call robot dectection systems.
+	
+What’s the role of a loss function?
+	The role of a loss function is to measure how inaccurate a model is.
+
+Mini Task:
+Write a few sentences describing what kind of AI project you’d love to build one day (doesn’t have to be realistic—dream big).
+	An AI project I'd love to build one day is something that could detect expired license plates and it could be used by police.
